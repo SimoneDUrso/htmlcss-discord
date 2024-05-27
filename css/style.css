@@ -104,8 +104,8 @@ a {
 
 #download-section>span {
     color: white;
-    font-size: 50px;
-    margin-left: 22%;
+    font-size: 60px;
+    margin-left: 18%;
 }
 
 #download-section>p {
@@ -166,14 +166,21 @@ a {
     width: 60%;
     height: 500px;
     background-color: rgb(62, 111, 245);
-    border: 2px dashed black;
 }
 
 .col-pink {
     width: 40%;
     height: 500px;
     background-color: pink;
-    border: 2px dashed black;
+}
+
+.col-pink>span {
+    font-size: 60px;
+}
+
+.col-pink>p {
+    font-size: 23px;
+    margin-top: 20px;
 }
 
 /* TERZO CONTAINER */
