@@ -162,34 +162,38 @@ a {
     display: flex;
 }
 
-.col-blue {
+.col-img {
     width: 60%;
     height: 500px;
-    background-color: rgb(62, 111, 245);
 }
 
-.col-pink {
+.col-info {
     width: 40%;
     height: 500px;
-    background-color: pink;
 }
 
-.col-pink>span {
+.col-info>span {
     font-size: 60px;
 }
 
-.col-pink>p {
+.col-info>p {
     font-size: 23px;
     margin-top: 20px;
 }
 
 /* TERZO CONTAINER */
 .container-bg-grey {
-    background-color: lightgray;
+    background-color: rgb(245, 243, 243);
     width: 100%;
     display: flex;
     padding: 40px;
 }
+
+.col-info>p {
+    font-size: 25px;
+}
+
+
 
 /* IL QUARTO CONTAINER NON HO AVUTO BISOGNO DI MODIFICARLO SU CSS PERCHè AVEVO GIà LE CLASSI PRONTE */
 
