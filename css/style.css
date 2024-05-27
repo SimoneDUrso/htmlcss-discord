@@ -74,7 +74,7 @@ ul {
     list-style-type: none;
 }
 
-li {
+.link>li {
     display: inline;
     margin: 20px;
 }
@@ -279,24 +279,42 @@ a {
 
 #ita {
     width: 30px;
-
 }
 
-#twitter,
-#instagram,
-#facebook,
-#youtube {
+#twitter {
     width: 30px;
     margin-top: 30px;
 }
 
+#instagram {
+    width: 30px;
+}
 
+#facebook {
+    width: 30px;
+}
+
+#youtube {
+    width: 30px;
+}
 
 li>span {
     color: #fff;
     font-size: 20px;
-
 }
+
+.theader {
+    color: rgb(114, 137, 218);
+    font-size: 30px;
+}
+
+li {
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+
+
 
 /* FOOTER */
 
