@@ -260,9 +260,6 @@ a {
 
 .aqua {
     width: 18%;
-    height: 500px;
-    background-color: aqua;
-    border: 2px dashed white;
 }
 
 .col-salmon>p {
@@ -311,9 +308,8 @@ li>span {
 li {
     margin-top: 20px;
     font-size: 25px;
+    color: #fff;
 }
-
-
 
 
 /* FOOTER */
